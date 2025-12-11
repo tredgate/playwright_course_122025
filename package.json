@@ -16,6 +16,7 @@
   "homepage": "https://github.com/tredgate/playwright_course_122025#readme",
   "description": "",
   "devDependencies": {
+    "@faker-js/faker": "^10.1.0",
     "@playwright/test": "^1.57.0",
     "@types/node": "^24.10.2"
   }
